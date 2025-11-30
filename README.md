@@ -1,2 +1,4 @@
 # Music-Recommender-KNN
- Building a KNN based music recommendation system
+A simple Music Recommendation System based on similarity scores and individual, local and global user listening time.
+# Exposure: 
+SVD, KNN
